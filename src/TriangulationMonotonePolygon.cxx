@@ -10,6 +10,7 @@
 #include <stack>
 #include "TriangulationMonotonePolygon.hxx"
 
+
 extern "C" {
 #define REAL double
 void exactinit();
