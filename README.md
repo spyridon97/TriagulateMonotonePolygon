@@ -26,8 +26,6 @@ There is no warranty whatsoever. Use at your own risk.
     *   The file which includes the GNU 3 Licence.
 *   README.md            
     *   This file.
-*   Requirements.md            
-    *   This file includes the requirements of the library along with the upcoming functionality that needs to be implemented.
 
 --------------------------------------------------------------------------------
 ## Installation & Compilation
