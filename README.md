@@ -34,7 +34,7 @@ There is no warranty whatsoever. Use at your own risk.
 * `cmake  ..`
 
 --------------------------------------------------------------------------------
-## Input and Output files of PODM
+## Input and Output files
 Input files format:
 *   First line: n 
     *   which is an integer specifying the number of vertices in the polygon.
